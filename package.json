@@ -1,0 +1,9 @@
+{
+  "name": "activeadmin_reorderable",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": [
+    "app/assets/javascripts/activeadmin_reorderable.js",
+    "app/assets/stylesheets/activeadmin_reorderable.scss"
+  ],
+}
