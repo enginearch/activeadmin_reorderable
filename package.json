@@ -1,9 +1,26 @@
 {
   "name": "activeadmin_reorderable",
-  "version": "0.1.5",
-  "license": "MIT",
-  "main": [
+  "version": "0.1.6",
+  "description": "Drag and drop to reorder your ActiveAdmin tables.",
+  "main": "app/assets/javascripts/activeadmin_reorderable.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
     "app/assets/javascripts/activeadmin_reorderable.js",
     "app/assets/stylesheets/activeadmin_reorderable.scss"
   ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkniffin/activeadmin_reorderable.git"
+  },
+  "author": "Chris Jones, Lawson Kurtz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkniffin/activeadmin_reorderable/issues"
+  },
+  "homepage": "https://github.com/dkniffin/activeadmin_reorderable#readme"
 }
